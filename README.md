@@ -55,6 +55,16 @@ npm start
 
 ## 🖼️ Application Preview
 
+### 🧑‍⚕️ About App
+![Intro](images/intro.png)
+
+### 🧑‍⚕️ Systems
+![Systems](images/masini bs.png)
+
+### 📊 Dashboard 
+![Dashboard](images/dashboard.png)
+
+
 
 ## 🚧 Future Improvements
 - Develop an interactive bot to guide users through forensic data and answer common questions  
