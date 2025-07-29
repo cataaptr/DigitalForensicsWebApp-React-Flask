@@ -56,13 +56,13 @@ npm start
 ## 🖼️ Application Preview
 
 ### 🧑‍⚕️ About App
-![Intro](images/intro.png)
+![Intro](img/intro.png)
 
 ### 🧑‍⚕️ Systems
-![Systems](images/masini bs.png)
+![Systems](img/masinibs.png)
 
 ### 📊 Dashboard 
-![Dashboard](images/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 
 
