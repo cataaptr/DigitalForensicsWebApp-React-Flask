@@ -55,15 +55,43 @@ npm start
 
 ## 🖼️ Application Preview
 
-### 🧑‍⚕️ About App
+### 🧑‍💻 About App
 ![Intro](img/intro.png)
 
-### 🧑‍⚕️ Systems
+### 🖥️ Systems
 ![Systems](img/masinibs.png)
+
+### 🎞️ Animation
+![Logo](img/animatie.png)
 
 ### 📊 Dashboard 
 ![Dashboard](img/dashboard.png)
 
+### 💻 System Info
+![System1](img/sistem1.png)
+![System2](img/sistem2.png)
+
+### 👤 Users Info
+![User1](img/user1.png)
+![User2](img/user2.png)
+![User3](img/user3.png)
+![User4](img/user4.png)
+
+### 📁 Files
+![File](img/fisiere.png)
+
+### 📜 Logs
+![Log1](img/log1.png)
+![Log2](img/log2.png)
+
+### 🌐 Networking
+![Networking](img/retea.png)
+
+### 🧾 Report
+![Report](img/raport.png)
+
+### ⚙️ Settings
+![Settings](img/setari.png)
 
 
 ## 🚧 Future Improvements
