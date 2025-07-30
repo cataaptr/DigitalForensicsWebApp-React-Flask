@@ -88,7 +88,7 @@ npm start
 ![Networking](img/retea.png)
 
 ### 🧾 Report
-![Report](img/raport.png)
+![Report](img/raport2.png)
 
 ### ⚙️ Settings
 ![Settings](img/setari.png)
