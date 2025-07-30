@@ -35,7 +35,7 @@
 
 ### 1. Run the data collection script
 Open a terminal and run the Python script that collects forensics data locally on the target machine.
-Note: This script contains sensitive information and is not included in this repository for security reasons.
+> **Note:** This script contains sensitive information and is not included in this repository for security reasons.
 
 ```bash
 cd forensic_script
@@ -53,6 +53,13 @@ python server.py
 cd client
 npm start
 ```
+
+## 🗄️ Local Database
+
+After running the forensic data collection script, the extracted information is automatically inserted into the local **SQLite** database used by the Flask backend. This database stores all collected details about the system, users, files, attacks, logs, and network activity.
+
+> **Note:** For security and privacy reasons, the local database file **is not included** in this repository. Therefore, each user must run the script on their own environment to populate the database with system-specific data.
+
 
 ## 🖼️ Application Preview
 
