@@ -81,8 +81,8 @@ npm start
 ![File](img/fisiere2.png)
 
 ### 📜 Logs
-![Log1](img/log1.png)
-![Log2](img/log2.png)
+![Log1](img/log3.png)
+![Log2](img/log4.png)
 
 ### 🌐 Networking
 ![Networking](img/retea.png)
