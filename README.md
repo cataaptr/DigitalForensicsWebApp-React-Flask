@@ -68,7 +68,7 @@ npm start
 ![Dashboard](img/dashboard.png)
 
 ### 💻 System Info
-![System1](img/sistem1.png)
+![System1](img/sistem11.png)
 ![System2](img/sistem2.png)
 
 ### 👤 Users Info
