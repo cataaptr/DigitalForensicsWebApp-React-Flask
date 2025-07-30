@@ -69,7 +69,7 @@ npm start
 
 ### 💻 System Info
 ![System1](img/sistem11.png)
-![System2](img/sistem2.png)
+![System2](img/sistem22.png)
 
 ### 👤 Users Info
 ![User1](img/user1.png)
