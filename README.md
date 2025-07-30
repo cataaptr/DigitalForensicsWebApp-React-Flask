@@ -59,7 +59,7 @@ npm start
 ![Intro](img/intro.png)
 
 ### 🖥️ Systems
-![Systems](img/masini.png)
+![Systems](img/masini2.png)
 
 ### 🎞️ Animation
 ![Logo](img/animatie.png)
