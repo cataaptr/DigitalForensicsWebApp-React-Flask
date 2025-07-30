@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.userActivity {
+  background-color: #0F0F0F;
+  color: white;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 7px;
+  padding: 7px;
+  margin-left: 28px;
+  display: block;
+  font-weight: 500;
+}
+
+.info-section {
+  background-color: #1f1f1f;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #3E432E;
+  border-radius: 10px;
+}
+
+.info-section h2 {
+  color: #A7D129;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.info-section p, .user-card p {
+  margin: 8px 0;
+  font-size: 15px;
+}
+
+.info-section b, .user-card b {
+  color: #A7D129;
+}
+
+.section-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.user-section {
+  margin: 30px 20px;
+}
+
+.user-section h2 {
+  font-size: 18px;
+  color: #A7D129;
+  margin-bottom: 15px;
+}
+
+.user-card {
+  background-color: #1A1A1A;
+  border: 1px solid #3E432E;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 5px rgba(167, 209, 41, 0.2);
+}
+
+.user-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.user-card ul {
+  padding-left: 20px;
+  list-style: disc;
+  margin-bottom: 10px;
+}
+
+
+.user-card.cracked {
+  border: 1px solid #ff4c4c;
+  background-color: #2a0e0e;
+}
+
+.user-card.cracked h3,b {
+  color: #ff4c4c;
+}
+
+.badge.danger {
+  background-color: #ff4c4c;
+  color: white;
+  font-weight: bold;
+  margin-Left: 10px;
+}
+
+
+.badge {
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.badge.active {
+  background-color: #A7D129;
+  color: #0F0F0F;
+}
+
+.loading {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.small-text {
+  color: #928f8f;
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+
+.table-no-border {
+  width: 100%;
+  border-collapse: collapse;
+  color: white;
+}
+
+.expand-btn {
+  background-color: #1f1f1f;
+  border: 1px solid #3E432E;
+  color: #A7D129;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.expand-btn:hover {
+  background-color: #3E432E;
+  color: #d4ff58;
+  border-color: #d4ff58;
+}
+
+
+
+
+

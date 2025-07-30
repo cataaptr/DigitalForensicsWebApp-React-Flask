@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.connection-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.connection-header h2 {
+  margin: 0;
+}
+
+.table-no-border {
+  width: 100%;
+  border-collapse: collapse;
+  color: white;
+}
+
+.table-no-border th,
+.table-no-border td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #2a2a2a; /* doar linii sub fiecare rând */
+}
+
+.table-no-border th {
+  color: #A7D129;
+  font-weight: 600;
+}
+
+.btn-more {
+  background-color: transparent;
+  color: #A7D129;
+  border: 1px solid #A7D129;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-more:hover {
+  background-color: #A7D129;
+  color: #0F0F0F;
+}
+
+.table-no-border td,
+.table-no-border th {
+  font-size: 14px;
+  padding: 6px 10px;
+  border: none;
+}
+
+
+.start-button {
+  margin-top: 30px;
+  padding: 14px 30px;
+  font-size: 16px;
+  background-color: #2f3b22;
+  color:#fff;
+  border: 1px solid #A7D129;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.user-card p {
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+.user-card h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.preserve-format {
+  white-space: pre-wrap;
+  font-family: monospace;
+  font-size: 14px;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+
+.score-dot-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.score-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.score-dot.red {
+  background-color: #e53935;
+}
+
+.score-dot.yellow {
+  background-color: #fdd835;
+}
+
+.score-dot.green {
+  background-color: #43a047;
+}
+
+.expand-btn {
+  background-color: #1f1f1f;
+  border: 1px solid #3E432E;
+  color: #A7D129;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.expand-btn:hover {
+  background-color: #3E432E;
+  color: #d4ff58;
+  border-color: #d4ff58;
+}
+
+.badge {
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold 600;
+  margin-left: 10px;
+  background-color: #ff4c4c;
+  color: white;
+}

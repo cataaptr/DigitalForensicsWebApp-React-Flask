@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.systemAnalysis {
+    background-color: #0F0F0F ;
+    color: white;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    }
+
+.title {
+    font-size: 20px;
+    margin-top: 7px;
+    padding: 7px;
+    margin-left: 28px;
+    display: block;
+    font-weight: 500;
+}
+
+.info-section {
+    background-color: #1f1f1f;
+    margin: 20px 40px;
+    padding: 25px 30px;
+    border: 1px solid #3E432E;
+    border-radius: 8px;
+  }
+  
+  .info-section h2 {
+    color: #A7D129;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .info-section p {
+    margin: 8px 0;
+    font-size: 15px;
+  }
+  
+  .info-section b {
+    color: #A7D129;
+  }
+  
+  .section-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  
+
+  .info-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .info-label {
+    font-weight: 600;
+    color: #A7D129;
+    min-width: 130px; /* aliniere consistentă */
+  }
+  
+  .info-value {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #fff;
+  }
+  
+  .distro-logo {
+    height: 20px;
+    width: auto;
+    filter: brightness(1.2) contrast(1.2);
+  }
+  
+
+
+
+  .section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .search-bar {
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid #A7D129;
+    background-color: #1a1a1a;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  .search-bar:focus {
+    outline: none;
+    box-shadow: 0 0 5px #A7D129;
+  }
+  
+
+  .packages-grid {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    position: relative;
+  }
+  
+  .packages-left {
+    flex: 1;
+  }
+  
+  .search-bar {
+    padding: 8px 12px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid #A7D129;
+    background-color: #0F0F0F;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .suspicious-panel {
+    margin-top: 20px;
+    background-color: #1a1a1a;
+    padding: 16px 20px;
+    border-radius: 10px;
+    max-width: 300px;
+    float: right;
+    margin-left: 20px;
+  }
+  
+  .suspicious-panel h2 {
+    color: #f5a623;
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+  
+  .suspicious-panel ul {
+    list-style: disc;
+    padding-left: 20px;
+    margin: 0;
+  }
+  
+  .suspicious-panel li {
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  
+  .suspicious-package {
+    color: #ff6b6b; /* mai soft */
+    font-weight: 600;
+  }
+  
+  

@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.fileAnalysis {
+  background-color: #0F0F0F;
+  color: white;
+  min-height: 100vh;
+  padding-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+.connection-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.connection-header h2 {
+  margin: 0;
+  font-size: 20px;
+  color: #A7D129;
+  font-weight: 600;
+}
+
+.section-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.expand-btn {
+  background-color: #1f1f1f;
+  border: 1px solid #3E432E;
+  color: #A7D129;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.expand-btn:hover {
+  background-color: #3E432E;
+  color: #d4ff58;
+  border-color: #d4ff58;
+}
+
+.table-no-border {
+  width: 100%;
+  border-collapse: collapse;
+  color: white;
+  font-size: 14px;
+}
+
+.table-no-border th,
+.table-no-border td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #2a2a2a;
+}
+
+.table-no-border th {
+  color: #A7D129;
+  font-weight: 600;
+}
+
+.badge {
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 600;
+  margin-left: 6px;
+  background-color: #ff4c4c;
+  color: white;
+}
+
+/* Severitate vizuală - dot */
+.score-dot-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.score-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+
+.score-dot.red {
+  background-color: #e53935;
+}
+
+.score-dot.yellow {
+  background-color: #fdd835;
+}
+
+.score-dot.green {
+  background-color: #43a047;
+}
+
+.info-section {
+  overflow-x: auto; /* adaugă scroll orizontal dacă e nevoie */
+  max-width: 100%;
+}
+.charts-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 7px;
+}

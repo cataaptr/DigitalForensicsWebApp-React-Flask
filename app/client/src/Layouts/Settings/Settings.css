@@ -1,0 +1,84 @@
+.settings {
+  background-color: #0F0F0F;
+  color: white;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  padding-bottom: 50px;
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 7px;
+  padding: 7px;
+  margin-left: 28px;
+  display: block;
+  font-weight: 500;
+}
+
+.settings-content {
+  background-color: #1f1f1f;
+  margin: 20px;
+  padding: 30px;
+  border: 1px solid #3E432E;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 10px rgba(167, 209, 41, 0.1);
+}
+
+.settings-content h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.dropdown-snapshot {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.dropdown-snapshot label {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.dropdown-snapshot select {
+  width: 100%;
+  padding: 10px;
+  background-color: #1f1f1f;
+  color: white;
+  border: 1px solid #3E432E;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.disconnect-btn {
+  background-color: #ff4c4c;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.disconnect-btn:hover {
+  background-color: #e04040;
+}
+
+.confirm-msg {
+  color: #A7D129;
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

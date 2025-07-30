@@ -1,0 +1,31 @@
+.panel {
+  background-color: #1f1f1f;
+  border: 1px solid #3E432E;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 8px;
+  position: relative;
+}
+
+.panel-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.panel-title {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  color: #fff;
+}
+
+.panel-image {
+  margin-right: 8px;
+}
+
+.panel-description {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  margin-top: 5px;
+}

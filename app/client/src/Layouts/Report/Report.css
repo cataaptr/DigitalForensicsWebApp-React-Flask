@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+.report {
+background-color: #0F0F0F ;
+color: white;
+height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    font-size: 20px;
+    margin-top: 7px;
+    padding: 7px;
+    margin-left: 28px;
+    display: block;
+    font-weight: 500;
+}
+
+
+.report-options {
+  padding: 2rem;
+}
+
+.report-options h3 {
+  color: #A7D129;
+  margin-bottom: 1rem;
+  font-size: 18px;
+}
+
+.checkbox-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.checkbox-group label {
+  font-size: 15px;
+  color: white;
+}
+
+.download-btn {
+  margin-top: 20px;
+  background-color: #A7D129;
+  color: #0F0F0F;
+  border: none;
+  padding: 10px 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background-color: #c6e55a;
+}
+
+
+
