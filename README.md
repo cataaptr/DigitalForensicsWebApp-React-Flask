@@ -85,7 +85,7 @@ npm start
 ![Log2](img/log4.png)
 
 ### 🌐 Networking
-![Networking](img/retea.png)
+![Networking](img/retea2.png)
 
 ### 🧾 Report
 ![Report](img/raport2.png)
