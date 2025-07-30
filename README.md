@@ -34,7 +34,8 @@
 ## 🚀 Running the Application
 
 ### 1. Run the data collection script
-Open a terminal and run the Python script that collects forensics data:
+Open a terminal and run the Python script that collects forensics data locally on the target machine.
+Note: This script contains sensitive information and is not included in this repository for security reasons.
 
 ```bash
 cd forensic_script
